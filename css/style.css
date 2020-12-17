@@ -1,0 +1,17 @@
+/* TODO: Put your CSS code in here */
+.header {
+    display: flex;
+}
+
+.text-center .btn {
+    margin: 20px;
+}
+
+.weatherDiv {
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1rem;
+
+}
